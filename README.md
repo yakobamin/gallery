@@ -6,8 +6,12 @@ Fitur Ini Adalah"
 -DATA FOTO/GALLERY
 -HAPUS FOTO
 -TAMBAH FOTO
+
+tampilan login:
 ![image](https://github.com/yakobamin/gallery/assets/161670238/a6074a88-b64f-4c58-ab7c-f13addc2b0d9)
 
+tampilan logout:
+![image](https://github.com/yakobamin/gallery/assets/161670238/33f9f9e9-e29c-47bb-803c-c916490f0526)
 
 Cara Instal
 hal yang harus dipersiapkan:
