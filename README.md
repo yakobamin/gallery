@@ -22,6 +22,10 @@ tampilan data/gallery:
 tampilan hapus foto ADA DI HALAMAN GALLERY:
 ![image](https://github.com/yakobamin/gallery/assets/161670238/940d4cba-69d4-4bfc-b514-0af201951a1d)
 
+tampilan tambah foto ADA DI HALAMAN GALLERY:
+![image](https://github.com/yakobamin/gallery/assets/161670238/1f39643f-1902-4772-874d-6d47a2772497)
+
+
 
 
 
