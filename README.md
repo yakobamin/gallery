@@ -13,6 +13,10 @@ tampilan login:
 tampilan logout:
 ![image](https://github.com/yakobamin/gallery/assets/161670238/33f9f9e9-e29c-47bb-803c-c916490f0526)
 
+tampilan registrasi:
+![image](https://github.com/yakobamin/gallery/assets/161670238/270b612c-7c9c-4cd5-b020-59625fa6a316)
+
+
 Cara Instal
 hal yang harus dipersiapkan:
 siapkan aplikasi xampp ver3.2.4 ke atas
