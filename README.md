@@ -19,6 +19,10 @@ tampilan registrasi:
 tampilan data/gallery:
 ![image](https://github.com/yakobamin/gallery/assets/161670238/ad2062d7-3615-49bd-ad4e-5a511ee82dad)
 
+tampilan hapus foto ADA DI HALAMAN GALLERY:
+![image](https://github.com/yakobamin/gallery/assets/161670238/940d4cba-69d4-4bfc-b514-0af201951a1d)
+
+
 
 
 Cara Instal
