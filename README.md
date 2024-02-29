@@ -16,6 +16,10 @@ tampilan logout:
 tampilan registrasi:
 ![image](https://github.com/yakobamin/gallery/assets/161670238/270b612c-7c9c-4cd5-b020-59625fa6a316)
 
+tampilan data/gallery:
+![image](https://github.com/yakobamin/gallery/assets/161670238/ad2062d7-3615-49bd-ad4e-5a511ee82dad)
+
+
 
 Cara Instal
 hal yang harus dipersiapkan:
